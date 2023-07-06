@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Niran Raj Pradhan
-- 🌱 I’m currently learning C,C++,Python and JavaScript
+- 🌱 Proficient in C,C++,Python and JavaScript along with frameworks such as Django and ReactJS
 - 💞️ I’m looking to collaborate on Web Dev and Data Structures projects.  
 - 📫 How to reach me : namikaze.niran@gmail.com.
 
